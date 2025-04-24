@@ -26,6 +26,4 @@ A simple Flappy Bird clone built using HTML, CSS, and JavaScript. This project r
 3. Start playing!
 
 ```bash
-git clone https://github.com/your-username/flappy-bird-clone.git
-cd flappy-bird-clone
-open index.html
+git clone https://github.com/superdudeneel/Flappy_bird_web_app.git
